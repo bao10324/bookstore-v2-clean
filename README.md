@@ -91,5 +91,3 @@
 ```
 
 ## Liên hệ
- - Email: ngohuunhan10@gmail.com / 19520800@gm.uit.edu.vn
- - FB: https://www.facebook.com/profile.php?id=100023638717042
